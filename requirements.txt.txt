@@ -1,0 +1,6 @@
+tensorflow
+tensorflow_datasets
+keras_wrn
+pandas
+numpy
+scikit-learn
